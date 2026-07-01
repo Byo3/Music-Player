@@ -29,4 +29,4 @@ NOTE: It might be a problem in the near future. As a **potential bug**, It needs
 * Pause Button:
 It pauses the current song using a var as a verifier that is negated by the user every time they click it.
 
-![cat](asset/gato_pensando.jpg)
+!(asset/gato_pensando.jpg)
