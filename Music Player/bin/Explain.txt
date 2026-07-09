@@ -1,0 +1,19 @@
+Aqui ficará apenas tudo que eu comentar.
+
+
+esse arquivo nao sera subido a git hub, apenas haverá relatos de como 
+foi o processo, em que áreas tive mais sucesso e quais eu tive mais dificultade.
+
+
+24/6/26
+
+por agora dei ínicio ao projeto criando a parte gráfica do app.
+nao houve nenhuma diculdade, tendo em conta que apenas estruturei o que quero fazer
+
+25/6/26
+
+usar o try e except é apenas necéssario quando a açao realizada nao pode ser prevista.
+Os if/else staments funcionam somente quando a "causa" é previsível.
+
+#Também deixei o C++ de lado. Ao concluir o projeto poderemos implementar em C++, claro
+usando a lógica do Python. 😝
